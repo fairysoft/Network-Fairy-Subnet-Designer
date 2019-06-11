@@ -112,6 +112,7 @@ PyCharm Community Edition 2018.3.4
 
 1. Network Fairy 1.0 only designs Variable Length Subnet Masks from /16 to /30.
 2. Network Fairy 1.0 limits the amount of subnets to 100.
+3. Route Summarisation is presented as a 'best guess', but it's correct most of the time.
 
 ## Licenses
 
